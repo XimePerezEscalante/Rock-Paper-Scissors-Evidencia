@@ -2,7 +2,7 @@
  * Punto de conexión con el modelo de IA.
  *
  * Envía la imagen al servidor de inferencia de Python (FastAPI, `serve.py` en
- * Evidencia_DeepLearning), que tiene cargada la CNN de piedra, papel o tijera.
+ * la raíz del repositorio), que tiene cargada la CNN de piedra, papel o tijera.
  * La URL se puede cambiar con la variable de entorno MODEL_URL.
  */
 import { promises as fs } from "fs";

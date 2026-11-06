@@ -55,3 +55,11 @@ next-env.d.ts
 # Turbo / caché
 .turbo
 .cache
+
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# Dataset (no se sube al repositorio, ver README)
+images/
