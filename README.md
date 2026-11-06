@@ -2,6 +2,9 @@
 
 CNN programada usando el framework TensorFlow/Keras que clasifica fotografías de una mano como **piedra**, **papel** o **tijeras**, junto con una aplicación web desarrollada en Next.js donde puedes subir una fotografía y el modelo juega el movimiento que vence al tuyo.
 
+## **Dataset**
+Se obtuvo de la plataforma Kaggle del siguiente link: https://www.kaggle.com/datasets/alexandredj/rock-paper-scissors-dataset
+
 El proyecto consta de dos partes que se ejecutan simultáneamente:
 
 | Parte | Función | Se ejecuta en |
